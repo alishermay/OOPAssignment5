@@ -1,3 +1,6 @@
+//Here you can see my homework. I created a program that interacts with a database of supposedly medical clinic. 
+//There are separate tables for patients, doctors, and appointments.
+//Each of them has its own class, which has methods for inserting, updating, deleting, and reading the Database. Used all that was required in a text file assignment-5.
 package com.company;
 import java.sql.*;
 import java.util.Scanner;
